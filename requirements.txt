@@ -16,7 +16,7 @@ cryptography==2.6.1
 cycler==0.10.0
 cymem==2.0.2
 cytoolz==0.9.0.1
-dask==1.1.5
+dask==2021.10.0
 decorator==4.4.0
 defusedxml==0.5.0
 dill==0.2.9
@@ -55,7 +55,7 @@ jwcrypto==0.6.0
 jwt==0.6.1
 keras-applications==1.0.7
 keras-preprocessing==1.0.9
-keras==2.2.4
+keras==2.6.0rc3
 kiwisolver==1.0.1
 ktext==0.34
 kubernetes==11.0.0
@@ -73,7 +73,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 networkx==2.2
 notebook==5.7.8
-numpy==1.16.2
+numpy==1.22.2
 pandas==0.24.2
 pandocfilters==1.4.2
 parso==0.3.4
@@ -87,11 +87,11 @@ ppft==1.6.4.9
 preshed==2.0.1
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-protobuf==3.7.1
+protobuf==3.18.3
 psycopg2-binary==2.7.7
 psycopg2==2.7.7
 ptyprocess==0.6.0
-pyarrow==0.12.1
+pyarrow==0.15.1
 pycparser==2.19
 pyemd==0.5.1
 pygments==2.3.1
@@ -99,13 +99,13 @@ pyjwt==1.7.1
 pyparsing==2.3.1
 pyphen==0.9.5
 python-dateutil==2.8.0
-python-levenshtein==0.12.0
+python-levenshtein==0.12.1
 pytz==2018.9
-pyyaml==5.1
+pyyaml==5.4
 pyzmq==18.0.1
 qtconsole==4.4.3
 requests==2.21.0
-scikit-learn==0.20.3
+scikit-learn==0.24.2
 scipy==1.2.1
 send2trash==1.5.0
 six==1.12.0
@@ -125,7 +125,7 @@ tqdm==4.31.1
 traitlets==4.3.2
 unidecode==1.0.23
 uritemplate==3.0.0
-urllib3==1.24.1
+urllib3==1.26.5
 wasabi==0.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
