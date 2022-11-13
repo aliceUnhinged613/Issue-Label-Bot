@@ -73,7 +73,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 networkx==2.2
 notebook==5.7.8
-numpy==1.16.2
+numpy==1.22.2
 pandas==0.24.2
 pandocfilters==1.4.2
 parso==0.3.4
@@ -95,7 +95,7 @@ pyarrow==0.12.1
 pycparser==2.19
 pyemd==0.5.1
 pygments==2.3.1
-pyjwt==1.7.1
+pyjwt==2.4.0
 pyparsing==2.3.1
 pyphen==0.9.5
 python-dateutil==2.8.0
